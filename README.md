@@ -12,3 +12,6 @@ Finally, I would like to recommend all that are interested to poke around py4web
 To use this program, just download the repo to the `apps` folder and navigate to `localhost:8000/blog`
 
 To change the default profile picture with what you want, just replace the file named `default.jpg` in `static/images`, that image is only used due to creative commons licences.
+
+---
+- şifre basit olabilmeli
